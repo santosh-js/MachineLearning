@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from IPython.display import clear_output
 from six.moves import urllib
 
-import tensorflow.compact.v2.feature_column as fc
-import tensorflow as tf
+# import tensorflow.compact.v2.feature_column as fc
+# import tensorflow as tf
 
 print("Python 2 code")
